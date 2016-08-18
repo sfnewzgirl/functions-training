@@ -36,11 +36,10 @@ For some of the problems, you'll have to use functions or other variables suppli
 
 ## Deliverable
 
-When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Example:
-
-> I was a able to complete all of the mathematical functions, but the string related functions were difficult for me. I spoke with the evening TA and she helped me solve the ASCII triangle function. I'm still feeling iffy on writing my own loops.
-
-Push your updates to GitHub and add a link to the repo to the "My Work" section of your website!
+Misha LeClair
+//repository link
+I was able to work through the mathematical functions okay. I ran into trouble
+with toTheNthPower and countVowels. Both stumped me about creating a count that adds one as you iterate through with a loop. I think with more practice I'll get it. I couldn't complete the pyramids. I looked at the solutions but was confused by them, so I plan to ask for help during a break or after class this evening to understand better and complete these final two.
 
 ## Function Definitions!
 
