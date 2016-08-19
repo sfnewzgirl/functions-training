@@ -95,3 +95,20 @@ function findWdi(arr){
 
 findWdi([9,'Bart Simpson', true, 'wdi']) // returns true
 findWdi(['a','b','c']) // returns false
+
+//#9
+function printTriangle(length) {
+    for (var i = 1; i <= length; i++) {
+        var row = ' ';
+      for (var j = 1; j <= i; j++) {
+         row += '*';
+        }
+      console.log(row);
+    }
+}
+
+printTriangle(6);
+// displays
+// *
+// **
+// ***
