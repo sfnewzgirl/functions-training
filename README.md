@@ -37,7 +37,7 @@ For some of the problems, you'll have to use functions or other variables suppli
 ## Deliverable
 
 Misha LeClair
-//repository link
+https://github.com/sf-wdi-31/functions-training.git
 I was able to work through the mathematical functions okay. I ran into trouble
 with toTheNthPower and countVowels. Both stumped me about creating a count that adds one as you iterate through with a loop. I think with more practice I'll get it. I couldn't complete the pyramids. I looked at the solutions but was confused by them, so I plan to ask for help during a break or after class this evening to understand better and complete these final two.
 
